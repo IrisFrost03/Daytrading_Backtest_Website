@@ -10,15 +10,16 @@ Planning:
 Inspiration:
   SureInsight - https://app.sureinsight.app/brief
   <img width="1210" height="713" alt="image" src="https://github.com/user-attachments/assets/36a50589-e7fe-4f75-8a79-965aabdf0312" />
+    
+
     What I like:
-    - Offers historical backtesting
+    - Offers historical back-testing
     - Dashboard with useful information
     - Provides journaling for trades
     - Calendar view of trades
     - Import features from many popular trading platforms (Apex, TopstepX, Tradify, etc.)
-
     What I don't like:
     - Cost money for AI features
-    - Backtesting is clunky, and lags at best
+    - Back-testing is clunky, and lags at best
     - Doesn't offer S&P 500 (MES)!!!
     - Interface for adding trades manually... kind of sucks
