@@ -9,7 +9,8 @@ Planning:
 
 Inspiration:
   SureInsight - https://app.sureinsight.app/brief
-  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/36a50589-e7fe-4f75-8a79-965aabdf0312" />
+  <img width="1587" height="779" alt="image" src="https://github.com/user-attachments/assets/90395f07-0237-4d9a-b268-cd2956dfe45e" />
+
     
 
     What I like:
