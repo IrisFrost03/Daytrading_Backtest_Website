@@ -16,6 +16,7 @@ Inspiration:
     - Provides journaling for trades
     - Calendar view of trades
     - Import features from many popular trading platforms (Apex, TopstepX, Tradify, etc.)
+
     What I don't like:
     - Cost money for AI features
     - Backtesting is clunky, and lags at best
