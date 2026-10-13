@@ -5,7 +5,7 @@ Goal:
 
 Planning:
   Trello will be used as the sole planning platform. The link can be found here: 
-  https://tinyurl.com/ek8xtp4m
+  https://trello.com/b/zYN19qac
 
 Inspiration:
   SureInsight - https://app.sureinsight.app/brief
