@@ -1,3 +1,4 @@
+A personal passion project in Futures Trading <3
 # Project Overview
 
 Goal:
